@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Ноутбук HP Pavilion 15",
+    "category": "Ноутбуки",
+    "brand": "HP",
+    "price": 599.99,
+    "stock": 20,
+    "description": "15.6 дюймовый ноутбук HP Pavilion с процессором Intel Core i5, 8 ГБ оперативной памяти и 512 ГБ SSD."
+  },
+  {
+    "id": 2,
+    "name": "Смартфон Samsung Galaxy S20",
+    "category": "Смартфоны",
+    "brand": "Samsung",
+    "price": 899.99,
+    "stock": 15,
+    "description": "Смартфон Samsung Galaxy S20 с диагональю экрана 6.2 дюйма, процессором Exynos 990, 8 ГБ оперативной памяти и 128 ГБ встроенной памяти."
+  },
+  {
+    "id": 3,
+    "name": "Планшет Apple iPad Air",
+    "category": "Планшеты",
+    "brand": "Apple",
+    "price": 699.99,
+    "stock": 10,
+    "description": "Планшет Apple iPad Air с 10.9-дюймовым Liquid Retina дисплеем, процессором A14 Bionic, поддержкой Apple Pencil и Smart Keyboard."
+  },
+  {
+    "id": 4,
+    "name": "Наушники Sony WH-1000XM4",
+    "category": "Аксессуары",
+    "brand": "Sony",
+    "price": 349.99,
+    "stock": 25,
+    "description": "Беспроводные наушники Sony WH-1000XM4 с технологией шумоподавления, Bluetooth и возможностью работы до 30 часов без подзарядки."
+  },
+  {
+    "id": 5,
+    "name": "Ноутбук Dell XPS 13",
+    "category": "Ноутбуки",
+    "brand": "Dell",
+    "price": 1299.99,
+    "stock": 30,
+    "description": "Ноутбук Dell XPS 13 с 13.3-дюймовым дисплеем, процессором Intel Core i7, 16 ГБ оперативной памяти и 512 ГБ SSD."
+  },
+  {
+    "id": 6,
+    "name": "Смартфон iPhone 13 Pro",
+    "category": "Смартфоны",
+    "brand": "Apple",
+    "price": 1099.99,
+    "stock": 18,
+    "description": "Смартфон iPhone 13 Pro с 6.1-дюймовым Super Retina XDR дисплеем, процессором A15 Bionic, тройной камерой 12 Мп и 128 ГБ встроенной памяти."
+  },
+  {
+    "id": 7,
+    "name": "Планшет Samsung Galaxy Tab S7+",
+    "category": "Планшеты",
+    "brand": "Samsung",
+    "price": 849.99,
+    "stock": 12,
+    "description": "Планшет Samsung Galaxy Tab S7+ с 12.4-дюймовым Super AMOLED дисплеем, процессором Snapdragon 865+, 8 ГБ оперативной памяти и 256 ГБ встроенной памяти."
+  }
+]
